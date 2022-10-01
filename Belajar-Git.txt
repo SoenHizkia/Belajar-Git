@@ -4,4 +4,10 @@ TESTING......
 - INI ADALAH EDIT FILE
 - COMMAND INI SUDAH DI EDIT
 
-Command ini ditulis oleh Orang pertama
+- INI ADALAH COMMAND EXPERIMENTAL DENGAN MEMBUAT BRANCH BARU
+.............. EXPERIMENT ......................
+- MENGEDIT FILE DLAM BRANCH EXPERIMENT-BRANCH
+- BARIS INI TELAH DITAMBAHKAN
+
+Halo, ini saya yang mengedit orang kedua
+...........
